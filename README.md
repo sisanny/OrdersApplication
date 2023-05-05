@@ -1,4 +1,4 @@
-# PositionSearchApplication
+# Orders Application
 
 ## Az alkalmazás futtatásához a következő lépéseket kell végrehajtani: ##
 
@@ -31,5 +31,5 @@
 
 6. Ha az alkalmazásunkat az Intellij IDEA-ban szeretnénk futtatni, kattintsunk a jobb felső sarokban található zöld "Run" gombra, majd válasszuk ki az `Application` opciót. Az alkalmazásunk most már fut, és elérhető a `localhost:8080` webcímen.
 
-   ```
+7. Egy refaktorált verzió tesztekkel és swagger dokumentációval elérhető a következő linken: https://github.com/sisanny/food
   
